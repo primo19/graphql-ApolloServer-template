@@ -1,0 +1,19 @@
+{
+  "name": "fullstack-vuegraphql-template",
+  "version": "1.0.0",
+  "description": "A template for Full Stack Vue App with GraphQL Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/primo19/graphql-vue-appstack-template.git"
+  },
+  "author": "Primo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/primo19/graphql-vue-appstack-template/issues"
+  },
+  "homepage": "https://github.com/primo19/graphql-vue-appstack-template#readme"
+}
